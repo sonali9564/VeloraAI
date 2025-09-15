@@ -58,11 +58,11 @@ Velora_1/
 git clone https://github.com/your-username/velora.git
 cd velora
 
-#  2️⃣ Create Virtual Environment
+2️⃣ Create Virtual Environment
 python -m venv venv
 
 
-#  Activate it:
+Activate it:
 
 Windows (PowerShell):
 
