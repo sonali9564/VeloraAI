@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+faiss-cpu
+transformers
+torch
+python-dotenv
+google-generativeai
+sentence-transformers
+yahoo_fin
